@@ -19,7 +19,7 @@ Afin de pouvoir tout tester grace à la `gem 'table_print'`, je vous invite a fa
 - `tp Dog.all`
 - `tp Dogsitter.all`
 - `tp Stroll.all`
-- 
+- `tp City.all`
 
 
 <hr>
